@@ -1,0 +1,1 @@
+worker:python ads_monitor.py
