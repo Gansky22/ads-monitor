@@ -1,1 +1,1 @@
-worker:python ads_monitor.py
+worker: python ads_monitor.py
