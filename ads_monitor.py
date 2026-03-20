@@ -440,7 +440,7 @@ def should_generate_report() -> bool:
 if __name__ == "__main__":
     send_telegram("✅ Ads Monitor 已启动")
 
-CHECK_INTERVAL_SECONDS = 300
+CHECK_INTERVAL_SECONDS = 3600
 
     while True:
         try:
